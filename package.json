@@ -1,0 +1,11 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "NodeJS app za seminarski iz predmeta Simulacije i sumulacioni jezici",
+  "main": "index.js",
+  "scripts": {
+    "start": "start"
+  },
+  "author": "Lazar Mladenovic",
+  "license": "MIT"
+}
